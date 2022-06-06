@@ -67,3 +67,5 @@ Users can define preprocessing pipelines and export them to run as part of a Ten
 Examples of data transformation include: normalizing values by using the mean and standard deviation functions, converting strings to integers, 
 or floating types to integers, among others. With TensorFlow Transform serving-time transformations are the same as those performed at training-time.” 
 https://github.com/linux-on-ibm-z/docs/wiki/Building-TensorFlow-Transform
+
+8. **Working with TensorFlow on Colab** (it's included by default, just need to import): https://colab.research.google.com
